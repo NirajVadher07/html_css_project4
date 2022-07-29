@@ -1,0 +1,66 @@
+.navbar{
+    padding: 10px 50px;
+  }
+.logo{
+    position: absolute;
+    top: 8%;
+    left: 10%;
+}
+.list{
+    
+    position: absolute;
+    top: 8%;
+    left: 25%;
+}
+.list-item{
+    list-style: none;
+    display: inline;
+    padding: 0 10px;
+    font-size: x-large;
+    color: #808080e1;
+}
+.list-item:hover{
+    color: #000000;
+}
+.button-group{
+    position: absolute;
+    top: 8%;
+    right: 7.5%;
+}
+.nav-button{
+    width: 200px;
+    height: 50px;
+    border-radius: 8px;
+    border-color:blueviolet;
+    font-size: x-large;
+    background-color:blueviolet;
+    color: white;
+}
+.heading-text{
+    position: absolute;
+    top: 15%;
+    left: 10%;
+    width: 600px;
+    font-size: 550%;
+    color: rgb(87, 26, 144);
+}
+.description{
+    position: absolute;
+    top: 60%;
+    left: 10%;
+    font-size: large;
+    color: grey;
+    width: 600px;
+}
+.btn{
+    position: absolute;
+    top: 75%;
+    left: 11%;
+    width: 300px;
+    height: 75px;
+}
+.image{
+    position: absolute;
+    top:15%;
+    right:0px;
+}
